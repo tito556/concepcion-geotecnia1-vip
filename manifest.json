@@ -3,7 +3,7 @@
   "short_name": "Geotecnia1",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#7C2D12",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "es",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Concepción, Chile. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/concepcion-6523"
 }
